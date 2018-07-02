@@ -20,10 +20,11 @@ By the end of the course, you will be up to date with the latest C++17 features 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-This course is for intermediate-to-advanced C++ programmers who want to get the most out of the Standard Template Library of the newest version of C++: C++ 17.
+<UL><LI>This course is for intermediate-to-advanced C++ programmers who want to get the most out of the Standard Template Library of the newest version of C++: C++ 17.</LI></UL>
+
 ### Technical Requirements
 This course has the following software requirements:<br/>
-The latest version of GCC, which supports  C++17
+<UL><LI>The latest version of GCC, which supports  C++17</LI></UL>
 
 ## Related Products
 * [Learning Modern C++ Functional Programming [Video]](https://www.packtpub.com/application-development/learning-modern-c-functional-programming-video?utm_source=github&utm_medium=repository&utm_campaign=9781789348859)
